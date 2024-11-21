@@ -1,0 +1,10 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(ß¥Ò8Ô‡Ä’´2
+I
+java:S3011",This accessibility update should be removed.(”İÙ®8á‡Ä’´2
+G	java:S106"+Replace this use of System.out by a logger.(Üäè¹8â‡Ä’´2
+F	java:S106"+Replace this use of System.out by a logger.(Ìçû8ã‡Ä’´2
+Ì
+java:S6548'"®An Enum-based Singleton implementation was detected. Make sure the use of the Singleton pattern is required and an Enum-based implementation is the right one for the context.(‘È¶8å‡Ä’´2
+F	java:S106+"+Replace this use of System.out by a logger.(Çğõ"8æ‡Ä’´2
