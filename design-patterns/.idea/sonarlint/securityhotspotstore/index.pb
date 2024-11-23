@@ -9,3 +9,5 @@ S
 #src/main/java/com/patterns/App.java,1/3/1322b937070cef6f44f93dc5dd4da9eae7ff9e15
 t
 Dsrc/main/java/com/patterns/singelton/ReflectionSingletonBreaker.java,5/0/50bb03514a344da1c7d88e5d444590e2734d26cf
+^
+.src/main/java/com/patterns/builder/Burger.java,b/4/b45ebf6d4c9a62e43182be230b75d7adea4fe8e3
