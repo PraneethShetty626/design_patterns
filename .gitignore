@@ -3,3 +3,5 @@
 
 # Ignore all .class files in all directories and subdirectories
 *.class
+
+**/.idea/
